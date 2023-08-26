@@ -1,9 +1,8 @@
 ### Olá! Sou o Dan! 👋
 
 - 🔭 Procurando vagas Full Stack
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Java
 - 📫 Discord: dann#6773
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/DaNnielRody">
