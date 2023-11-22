@@ -1,7 +1,7 @@
 ### Olá! Sou o Dan! 👋
 
-- 🔭 Procurando vagas Full Stack
-- 🌱 Estudando Java
+- 🔭 Procurando vagas Front End
+- 🌱 Estudando HTML/CSS/REACT
 - 📫 Discord: dann#6773
 
 <div align="center">
