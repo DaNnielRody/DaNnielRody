@@ -1,7 +1,7 @@
 ### Olá! Sou o Dan! 👋
 
 - 🔭 Procurando vagas Front End
-- 🌱 Estudando HTML/CSS/REACT
+- 🌱 Estudando Spring/Kolin
 - 📫 Discord: dann#6773
 
 <div align="center">
