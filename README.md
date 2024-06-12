@@ -1,7 +1,8 @@
 ### Olá! Sou o Dan! 👋
 
 - 🔭 Procurando vagas Back End
-- 🌱 Estudando Spring/Kolin
+- 🌱 Estudando Spring/Kotlin
+- 🌱 Estudando Golang
 - 📫 Discord: dann#6773
 
 <div align="center">
