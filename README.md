@@ -30,7 +30,7 @@
 
 <br>
 
-![Snake animation](https://github.com/dannielrody/dannielrody/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dannielrody/dannielrody/blob/output/github-contribution-grid-snake-sissa-white.svg)
 
 ### Sobre mim
 - 🔭 Procurando vagas Back End
