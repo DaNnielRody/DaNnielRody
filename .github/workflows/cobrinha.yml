@@ -1,9 +1,9 @@
 name: Snake Game
 
 on:
-  # Run automatically every 12 hours
+  # Run automatically every 5 minutes
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "*/5 * * * *"
   
   # Allows to manually run the job at any time
   workflow_dispatch:
@@ -19,7 +19,11 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Generate a snake game from a GitHub user's contributions graph, output SVG animations
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Generate snake game animations
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk@v3
         with:
@@ -30,6 +34,11 @@ jobs:
             dist/github-contribution-grid-snake-white.svg?palette=github-light
             dist/github-contribution-grid-snake-sissa.svg?color_snake=#00b300&color_dots=#0D1117,#ffffff,#d4d4d4,#888888,#545454
             dist/github-contribution-grid-snake-sissa-white.svg?color_snake=#00b300&color_dots=#ffffff,#0D1117,#0D1117,#0D1117,#0D1117
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+            dist/github-contribution-grid-snake-white.gif?palette=github-light
+            dist/github-contribution-grid-snake-sissa.gif?color_snake=#00b300&color_dots=#0D1117,#ffffff,#d4d4d4,#888888,#545454
+            dist/github-contribution-grid-snake-sissa-white.gif?color_snake=#00b300&color_dots=#ffffff,#0D1117,#0D1117,#0D1117,#0D1117
 
       # Push the content of the dist directory to the output branch
       - name: Push to output branch
