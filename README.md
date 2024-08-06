@@ -36,7 +36,7 @@
 - 🔭 Procurando vagas Back End
 - 🌱 Estudando Spring/Quarkus
 - 🌱 Estudando Java e Golang
-- 📫 Discord: dann#6773
+- 📫 Discord: dannitzs
 
 <div align="center"> 
   <a href="https://www.instagram.com/dan_rody_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
