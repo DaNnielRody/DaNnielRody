@@ -22,7 +22,7 @@ I'm passionate about building efficient and scalable backend systems and continu
 
 📫 Discord: dannitzs
 
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: **The Orcs in The Lord of the Rings were modeled after rugby players to give them a rugged and tough appearance.**
 
 </div>
 
