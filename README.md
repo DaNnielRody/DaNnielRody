@@ -18,7 +18,7 @@ I'm passionate about building efficient and scalable backend systems and continu
  
 🔭 Looking for Back-End positions
 
-🌱 Studying Spring/Quarkus, Java, and Golang
+🌱 Studying Spring and Java
 
 📫 Discord: dannitzs
 
