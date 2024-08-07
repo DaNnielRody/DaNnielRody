@@ -31,7 +31,6 @@ I'm passionate about building efficient and scalable backend systems and continu
 <p align="center">
   <a href="mailto:danielrody@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-rody-136151256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/dan_rody_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/dannielrody?tab=followers"><img src="https://img.shields.io/badge/-Follow%20Me-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
