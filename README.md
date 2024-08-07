@@ -6,7 +6,11 @@
 
 **`Back-End Engineer`**
 
-I'm Daniel Rody, graduated in Commercial Software Engineering at Jala University, and a Back-End Engineer from Brazil. I'm passionate about building efficient and scalable backend systems and continuously learning new technologies to improve my skills.
+**I'm Daniel Rody, graduated in Commercial Software Engineering at Jala University, and a Back-End Engineer from** 🇧🇷
+
+
+
+I'm passionate about building efficient and scalable backend systems and continuously learning new technologies to improve my skills.
 
 <br>
 
