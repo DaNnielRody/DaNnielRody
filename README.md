@@ -16,7 +16,7 @@ I'm passionate about building efficient and scalable backend systems and continu
 
 <div align="center">
  
-🔭 Full-Stack Engineer at Elastic Code.
+🔭 Full-Stack Engineer at Elastic Code
 
 🌱 Studying Typescript and Nest/Next
 
