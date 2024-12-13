@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Rody!;" />
 </h1>
 
-**`Back-End Engineer`**
+**`Full-Stack Engineer`**
 
 **I'm Daniel Rody, graduated in Commercial Software Engineering at Jala University, and a Back-End Engineer from** 🇧🇷
 
@@ -16,9 +16,9 @@ I'm passionate about building efficient and scalable backend systems and continu
 
 <div align="center">
  
-🔭 Looking for Back-End positions
+🔭 Full-Stack Engineer at Elastic Code.
 
-🌱 Studying SpringBoot and Angular
+🌱 Studying Typescript and Nest/Next
 
 📫 Discord: dannitzs
 
@@ -45,6 +45,8 @@ I'm passionate about building efficient and scalable backend systems and continu
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Shell" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Nest.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
 <br>
 
 <br>
