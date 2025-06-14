@@ -22,8 +22,10 @@ I'm passionate about building efficient and scalable backend systems and continu
 
 📫 Discord: dannitzs
 
-⚡ Fun fact: **The Orcs in The Lord of the Rings were modeled after rugby players to give them a rugged and tough appearance.**
 🃏 **Indie hacker**
+
+⚡ Fun fact: **The Orcs in The Lord of the Rings were modeled after rugby players to give them a rugged and tough appearance.**
+
 
 </div>
 
