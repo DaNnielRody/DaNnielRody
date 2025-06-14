@@ -6,7 +6,7 @@
 
 **`Full-Stack Engineer`**
 
-**I'm Daniel Rody, graduated in Commercial Software Engineering at Jala University, and a Back-End Engineer from** 🇧🇷
+**I'm Daniel Rody, graduated in Commercial Software Engineering at Jala University, and a FullStack Engineer from** 🇧🇷
 
 
 
@@ -16,7 +16,7 @@ I'm passionate about building efficient and scalable backend systems and continu
 
 <div align="center">
  
-🔭 Full-Stack Engineer at Elastic Code
+🔭 Full-Stack Engineer at Lexin Innovations
 
 🌱 Studying Typescript and Nest/Next
 
