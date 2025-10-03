@@ -15,8 +15,6 @@ I'm passionate about building efficient and scalable backend systems and continu
 <br>
 
 <div align="center">
- 
-🔭 Full-Stack Engineer at Lexin Innovations
 
 🌱 Studying Typescript and Nest/Next
 
