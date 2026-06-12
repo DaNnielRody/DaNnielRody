@@ -6,7 +6,7 @@
 
 **`Full-Stack Engineer`**
 
-**I'm Daniel Rody, graduated in Commercial Software Engineering at Jala University, and a FullStack Engineer from** 🇧🇷
+**I'm Daniel Rody, graduated in Commercial Software Engineering at Jala University, and a AI/DataEngineer from** 🇧🇷
 
 
 
