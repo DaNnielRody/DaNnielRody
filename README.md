@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Rody!;" />
 </h1>
 
-**`Full-Stack Engineer`**
+**`AI/DataEngineer`**
 
 **I'm Daniel Rody, graduated in Commercial Software Engineering at Jala University, and a AI/DataEngineer from** 🇧🇷
 
